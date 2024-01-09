@@ -3,6 +3,7 @@ o Projeto Obtem dados da API https://www.themoviedb.org/
 Tela principal: 
 ![Captura de tela de 2024-01-09 20-33-39](https://github.com/gustavomejia-dev/clone-netflix/assets/78358145/a0aacb12-7542-4f18-9c5b-ecbdd52a43ac)
 
-![Captura de tela de 2024-01-09 20-33-39](https://github.com/gustavomejia-dev/clone-netflix/assets/78358145/626599e7-f62f-4087-8678-207cf835fc7e)
+
+![Captura de tela de 2024-01-09 20-33-48](https://github.com/gustavomejia-dev/clone-netflix/assets/78358145/ac4acb7c-f95e-4da2-bfbc-1749b1ac8222)
 
 
