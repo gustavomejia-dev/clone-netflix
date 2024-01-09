@@ -1,8 +1,8 @@
-# React + Vite
+Projeto feito para treinar a utlização da lib react, falta implementar algumas funcionalidades, como por exemplo a de acessar as configurações do usuário logado: 
+o Projeto Obtem dados da API https://www.themoviedb.org/
+Tela principal: 
+![Captura de tela de 2024-01-09 20-33-39](https://github.com/gustavomejia-dev/clone-netflix/assets/78358145/a0aacb12-7542-4f18-9c5b-ecbdd52a43ac)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de tela de 2024-01-09 20-33-39](https://github.com/gustavomejia-dev/clone-netflix/assets/78358145/626599e7-f62f-4087-8678-207cf835fc7e)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
